@@ -1,0 +1,1 @@
+Extension images and screenshots
