@@ -12,11 +12,22 @@ Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-regis
 ### How to setup extension with credentials?
 1. Download PHP files and upload on your hosting. File link -> https://github.com/jewelshkjony/BkashPayment/blob/main/BkashApiFile.zip
 2. Set the payment.php file link as HostLink on extension block. Example: https://www.hosting.com/api/payment.php
+> <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/HostLink.png?raw=true"/>
 3. Edit and change config_live.php file from hosting with your merchant account credentials.
+4. Now set the amount to start payment flow. A popup bKash payment flow will be open.
+> <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment.png?raw=true"/>
+5. PageStarted means the webview is starting the payment flow.
+> <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Page-Started.png?raw=true"/>
+6. PageFinished means the webview is finished it's loading.
+> <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Page-Finished.png?raw=true"/>
+7. PaymentSuccess means the payment process is completed. Also it's return payment id, transaction id, amount and json response as string.
+> <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment-Success.png?raw=true"/>
+8. PaymentError means the extension got any error. It's return the error reason as string.
+> <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment-Error.png?raw=true"/>
 
 Learn more details: https://developer.bka.sh/
 
-### Contact with me
+### Contact with me ---------------------
 1. Facebook: https://fb.com/jewelshkjony/
 2. Telegram: https://t.me/jewelshkjony/
 3. WhatsApp: https://wa.me/8801775668913/
