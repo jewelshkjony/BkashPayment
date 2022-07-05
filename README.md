@@ -10,7 +10,7 @@ Keep API file on your hosting & change the credential.
 Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-registration-request
 
 ### How to setup extension with credentials?
-1. Download PHP files and upload on your hosting. File link -> https://github.com/jewelshkjony/BkashPayment/blob/main/BkashApiFile.zip
+1. Upload PHP files on your hosting. (You'll get this files with extension.)
 2. Set the payment.php file link as HostLink on extension block. Example: https://www.hosting.com/api/payment.php
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/HostLink.png?raw=true"/>
 3. Edit and change config_live.php file from hosting with your merchant account credentials.
@@ -27,7 +27,7 @@ Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-regis
 
 ## Extension specifications:
 ![image](https://user-images.githubusercontent.com/75406851/177278269-e83740d7-ff1d-4224-9da4-8afeb3034b86.png)\
-<a href="https://community.appinventor.mit.edu/">com.jewel.bkashpayment</a>(296 KB)\
+<a href="https://community.appinventor.mit.edu/t/bkashpayment-extension-integrate-bkash-payment-flow-1-0-1-beta/61375">com.jewel.bkashpayment</a>(296 KB)\
 Version: 1.0.1-beta\
 Price: $25 USD (2000 Taka only for Bangladeshi)\
 Last amendment: 07 July 2022\
@@ -35,7 +35,7 @@ Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
   
 #### Learn more details: https://developer.bka.sh/
 
-### Contact with me ---------------------
+### Contact with me ------------------
 1. Facebook: https://fb.com/jewelshkjony/
 2. Telegram: https://t.me/jewelshkjony/
 3. WhatsApp: https://wa.me/8801775668913/
