@@ -1,5 +1,5 @@
-# BkashPayment
-An extension to make bKash merchant payment from your android application.
+# BkashPayment Extension
+An extension to make bKash merchant payment from your android application. Support Kodular, Niotron, App Inventor and it's other distributions.
 
 Bkash payment gateway integration in android with PHP web server.
 
