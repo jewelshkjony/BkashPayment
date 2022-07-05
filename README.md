@@ -26,11 +26,12 @@ Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-regis
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment-Error.png?raw=true"/>
 
 ### Extension specifications:
->> com.jewel.bkashpayment (295.0 kb)
->> Version: 1.0.1-beta
->> Last amendment: 07 July 2022
->> Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
-
+com.jewel.bkashpayment (295.0 kb)\
+Version: 1.0.1-beta\
+Price: $25 USD (2000 Taka only for Bangladeshi)\
+Last amendment: 07 July 2022\
+Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
+  
 #### Learn more details: https://developer.bka.sh/
 
 ### Contact with me ---------------------
