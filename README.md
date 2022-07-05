@@ -1,5 +1,6 @@
 # BkashPayment Extension
-An extension to make bKash merchant payment from your android application. Support Kodular, Niotron, App Inventor and it's other distributions.
+An extension to make bKash merchant payment from your android application.
+Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
 
 <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/bkash_payment_logo.png?raw=true"/>
 
@@ -25,7 +26,7 @@ Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-regis
 8. PaymentError means the extension got any error. It's return the error reason as string.
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment-Error.png?raw=true"/>
 
-Learn more details: https://developer.bka.sh/
+#### Learn more details: https://developer.bka.sh/
 
 ### Contact with me ---------------------
 1. Facebook: https://fb.com/jewelshkjony/
