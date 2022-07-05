@@ -1,7 +1,7 @@
 # BkashPayment Extension
 An extension to make bKash merchant payment from your android application. Just import the extension and setup your credentials.
 
-<img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/bkash_payment_logo.png?raw=true"/>
+<img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/bkash_payment_gateway.png?raw=true"/>
 
 Bkash payment gateway integration in android with PHP web server.
 
@@ -35,12 +35,12 @@ Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
   
 #### Learn more details: https://developer.bka.sh/
 
-### Contact with me ------------------
+### Contact with me ----------------
 1. Facebook: https://fb.com/jewelshkjony/
 2. Telegram: https://t.me/jewelshkjony/
 3. WhatsApp: https://wa.me/8801775668913/
 4. Messenger: https://m.me/jewelshkjony/
 
-### Purchase this extension via -----
+### Purchase this extension via ----
 TransferWise: https://wise.com/invite/ua/dulald4 \
 bKash/Nagad: 01775668913
