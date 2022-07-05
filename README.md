@@ -5,6 +5,8 @@ An extension to make bKash merchant payment from your android application. Just 
 
 Bkash payment gateway integration in android with PHP web server.
 
+<img src="https://raw.githubusercontent.com/jewelshkjony/BkashPayment/main/images/bKash_Checkout.jpg"/>
+
 Keep API file on your hosting & change the credential.
 
 Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-registration-request
