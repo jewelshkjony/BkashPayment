@@ -25,8 +25,9 @@ Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-regis
 8. PaymentError means the extension got any error. It's return the error reason as string.
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment-Error.png?raw=true"/>
 
-### Extension specifications:
-com.jewel.bkashpayment (295.0 kb)\
+## Extension specifications:
+![image](https://user-images.githubusercontent.com/75406851/177278269-e83740d7-ff1d-4224-9da4-8afeb3034b86.png)\
+<a href="https://community.appinventor.mit.edu/">com.jewel.bkashpayment</a>(13.9 KB)\
 Version: 1.0.1-beta\
 Price: $25 USD (2000 Taka only for Bangladeshi)\
 Last amendment: 07 July 2022\
