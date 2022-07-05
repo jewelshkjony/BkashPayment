@@ -14,5 +14,7 @@ Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-regis
 
 Learn more details: https://developer.bka.sh/
 
-Telegram: https://t.me/jewelshkjony/
-Facebook: https://fb.com/jewelshkjony/
+> Telegram: https://t.me/jewelshkjony/
+> Facebook: https://fb.com/jewelshkjony/
+> Messenger: https://m.me/jewelshkjony/
+> WhatsApp: https://wa.me/8801775668913/
