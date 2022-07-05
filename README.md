@@ -16,9 +16,9 @@ Open bKash merchant account: https://www.bkash.com/bn/i-want-register/send-regis
 3. Edit and change config_live.php file from hosting with your merchant account credentials.
 4. Now set the amount to start payment flow. A popup bKash payment flow will be open.
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment.png?raw=true"/>
-5. PageStarted means the webview is starting the payment flow.
+5. PageStarted means the extension is starting the payment flow.
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Page-Started.png?raw=true"/>
-6. PageFinished means the webview is finished it's loading.
+6. PageFinished means the extension is finished it's loading.
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Page-Finished.png?raw=true"/>
 7. PaymentSuccess means the payment process is completed. Also it's return payment id, transaction id, amount and json response as string.
 > <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/Payment-Success.png?raw=true"/>
