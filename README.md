@@ -1,6 +1,9 @@
 # BkashPayment Extension
 An extension to make bKash merchant payment from your android application. Just import the extension and setup your credentials.
 
+### What is bKash?
+**bKash** is a mobile financial service in Bangladesh. As a mobile financial service (MFS) provider in Bangladesh through bKash users can deposit money into their mobile accounts and then access a range of services, in particular transferring and receiving money domestically, making payments. Services like mobile recharge or paying utility bills. A user can receive money from overseas on bKash.
+
 <img src="https://github.com/jewelshkjony/BkashPayment/blob/main/images/bkash_payment_gateway.png?raw=true"/>
 
 Bkash payment gateway integration in android with PHP web server.
