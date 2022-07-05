@@ -41,6 +41,6 @@ Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
 3. WhatsApp: https://wa.me/8801775668913/
 4. Messenger: https://m.me/jewelshkjony/
 
-### Purchase this extension -----
-Wise: https://wise.com/invite/ua/dulald4 \
+### Purchase this extension via -----
+TransferWise: https://wise.com/invite/ua/dulald4 \
 bKash/Nagad: 01775668913
