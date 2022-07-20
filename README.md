@@ -40,15 +40,17 @@ Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
   
 #### Learn more details: https://developer.bka.sh/
 
-### Contact with me ----------------
-1. Facebook: https://fb.com/jewelshkjony/
-2. Telegram: https://t.me/jewelshkjony/
-3. WhatsApp: https://wa.me/8801775668913/
-4. Messenger: https://m.me/jewelshkjony/
+## 📫 How to reach me: ...
 
-### Purchase this extension via ----
-TransferWise: https://wise.com/invite/ua/dulald4 \
-bKash/Nagad (Personal): 01775668913
+<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
+
+## Payment Gateway
+Use this phone number to pay me from Bangladesh.
+
+````java
++8801775668913
+````
+Bangladeshi user can send money using bkash, Nagad and Rocket. Remember accounts are personal.
 
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
